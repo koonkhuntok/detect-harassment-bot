@@ -10,3 +10,8 @@ Discord auto detect harassment word bot [Version: Eng & Thai]
 
 # How to setting bot from discord developer
 - follow this url: https://www.writebots.com/discord-bot-token/
+
+
+# Custom
+- words.txt file is a blacklist words if you want to add more word you can add in it
+- About database if you don't want to use our docker database compose. You can change config in .evn (support only postgresql)
