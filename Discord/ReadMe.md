@@ -15,3 +15,8 @@ Discord auto detect harassment word bot [Version: Eng & Thai]
 # Custom
 - words.txt file is a blacklist words if you want to add more word you can add in it
 - About database if you don't want to use our docker database compose. You can change config in .evn (support only postgresql)
+
+# Team
+- kt.comp@outlook.com
+- rattasart.1137@gmail.com
+- khuntok.member.koon@gmail.com
